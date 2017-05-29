@@ -1,9 +1,9 @@
 {
-  "name": "atom-dark-syntax",
+  "name": "doe-syntax",
   "theme": "syntax",
   "version": "0.28.0",
   "description": "A dark theme for syntax",
-  "repository": "https://github.com/atom/atom-dark-syntax",
+  "repository": "https://github.com/deolson/atom-doe-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
